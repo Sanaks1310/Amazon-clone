@@ -1,5 +1,4 @@
 # 🛒 Amazon Clone
-
 A simple Amazon homepage clone built using HTML and CSS. This project replicates the look and structure of the Amazon landing page, focusing on responsive layout and design practice using modern frontend technologies.
 
 # 🚀 Features
@@ -32,3 +31,4 @@ amazon-clone/
 Inspired by the design of amazon.in.
 
 ---
+
